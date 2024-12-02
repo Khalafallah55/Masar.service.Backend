@@ -10,4 +10,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Integration\Mcs.Masar.Documentum\Mcs.Masar.Documentum.csproj" />
+    <ProjectReference Include="..\Integration\Mcs.Masar.Jics\Mcs.Masar.Jics.csproj" />
+    <ProjectReference Include="..\Integration\Mcs.Masar.workflow\Mcs.Masar.workflow.csproj" />
+  </ItemGroup>
+
 </Project>

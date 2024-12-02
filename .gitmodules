@@ -1,0 +1,3 @@
+[submodule "Integration"]
+	path = Integration
+	url = https://github.com/Khalafallah55/Masar.Integration.Dummy.git
